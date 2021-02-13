@@ -1,5 +1,5 @@
 {
-  const $slider = document.querySelector('.bl_places_cardSlider');
+  const $slider = document.querySelector('.slider');
 
   let isDown = false;
   let startX;

@@ -1,0 +1,13 @@
+.slider {
+  overflow-y: hidden;
+  overflow-x: scroll;
+}
+.slide {
+  display: flex;
+}
+.box {
+  min-width: 500px;
+  height: 300px;
+  background: blue;
+  margin-right: 30px;
+}
